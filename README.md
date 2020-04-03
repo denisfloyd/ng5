@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-First run `npm i` for downloading all dependencies for the project.
+* First run `npm i` for downloading all dependencies for the project.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -27,3 +27,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help 
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Sample Images
+
+<h1 align="center">
+  
+<img src="https://github.com/denismend/ng5/blob/master/src/assets/img1.PNG?raw=true" width="70%" height="70%" />
+
+<img src="https://github.com/denismend/ng5/blob/master/src/assets/img2.PNG?raw=true" width="70%" height="70%" />
+
+</h1>
